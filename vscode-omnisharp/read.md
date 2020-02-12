@@ -1,0 +1,1 @@
+Formatting settings for the omnisharp formatter vscode extension
